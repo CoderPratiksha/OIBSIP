@@ -1,0 +1,112 @@
+/* body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/007/360/344/small/close-up-of-nature-view-green-leaf-on-blurred-greenery-background-under-sunlight-with-bokeh-and-copy-space-using-as-background-natural-plants-landscape-ecology-wallpaper-concept-free-photo.jpg");
+    ;
+}
+.mbody{
+    width:700px;
+    background-color: aqua;
+    height: 500px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px rgba(0,0,0,0.5);
+
+}
+
+h1{
+    margin-top: 20px;
+    padding-top: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.form1{
+    width:300px;
+    background-color: aliceblue;
+    height: 300px;
+} */
+
+
+
+
+        body {
+            font-family: Arial, sans-serif;
+           text-align: center;
+            margin-top: 50px;
+           }
+           body:hover{
+            background-image: url("https://media.istockphoto.com/id/819556270/photo/thermometer-on-a-green-nature-background-and-temperature-measuring-environment-concept.jpg?s=612x612&w=0&k=20&c=cZ1I7hgWWTswzNoAOeIek6AYmD3I62FvMJlqCHtlCmE=");
+           
+           }
+
+        #converter {
+            width: 600px;
+            height: 450px;
+            margin: 0 auto;
+            background-color: #E0B1CB;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border: 2px solid black;
+        }
+        #converter:hover{
+            transition-delay: 2s;
+           color: black;
+        }
+
+        button {
+            padding: 10px;
+          
+            cursor: pointer;
+        }
+
+        #output {
+            margin-top: 20px;
+        }
+        .temp{
+            padding-top: 30px;
+        }
+        .type{
+            padding-top: 30px;
+        }
+        .main{
+            position: relative;
+            margin-left: 100px;
+            width: 70%;
+            height: 50%;
+            border: 2px solid black;
+            margin-bottom: 15px;
+            background-color: #231942;
+            color: white;
+        }
+        .main:hover{
+            background-color: #FF4D6D;
+        }
+        .num{
+            margin-top: 10px;
+        }
+        .num2{
+            margin-top: 10px;
+        }
+        .label{
+            font-size: 24px;
+        }
+        #btn{
+            font-size: 30px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-color: #C41174;
+            border: 2.5px solid black;
+            color: white;
+            border-radius: 10px;
+        }
+        #btn:hover{
+            background-color: #231942
+            
+        }
+
+        #output{
+            font-family: sans-serif;
+            font-size: 30px;
+            text-decoration: underline;
+        }
+
+    
